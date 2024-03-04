@@ -1,0 +1,17 @@
+body {
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+    height: 100vh;
+    overflow: hidden;
+    font-family: Monospace;
+  }
+  
+  input {
+    margin-top: 8%;
+    height: 30px;
+    width: 280px;
+    border: 2px solid;
+    border-radius:10px 0 0 10px ;
+  }
+  
